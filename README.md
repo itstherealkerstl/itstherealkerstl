@@ -1,6 +1,4 @@
-Hi, I’m @itstherealkerstl.
-I’m interested in Front-End Webdevelopment.
-I’m currently learning vue.js and ionic.
+Hi, I’m @itstherealkerstl. I’m learning in Front-End Webdevelopment. :)
 
 <!---
 itstherealkerstl/itstherealkerstl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
